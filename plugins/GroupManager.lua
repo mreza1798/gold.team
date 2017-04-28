@@ -1,4 +1,4 @@
-﻿--Begin GroupManager.lua By @MahDiRoO
+﻿--Begin GroupManager.lua By @little_princeO_o
 local function modadd(msg)
 local hash = "gp_lang:"..msg.to.id
 local lang = redis:get(hash)
@@ -4188,8 +4188,8 @@ _To Change The LanGuage_
 *Setlang* `[en , fa]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 elseif lang then
 text = [[🔖*нєℓρ яα∂ιкαℓвσт*
@@ -4228,8 +4228,8 @@ _برای تغییر زبان_
  *تنظیم زبان* `[فارسی , انگلسیی]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 end
 return text
@@ -4350,8 +4350,8 @@ _To Change The LanGuage_
 *Setlang* `[en , fa]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 return text
 end
@@ -4376,8 +4376,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
  ]]
 elseif lang then
 text = [[
@@ -4397,8 +4397,8 @@ text = [[
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 end
 return text
@@ -4421,8 +4421,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 elseif lang then
 text = [[
@@ -4440,8 +4440,8 @@ text = [[
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 end
 return text
@@ -4542,8 +4542,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 elseif lang then
 text = [[
@@ -4636,8 +4636,8 @@ text = [[
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 end
 return text
@@ -4702,8 +4702,8 @@ _Tr en سلام_
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 elseif lang then
 text = [[
@@ -4763,8 +4763,8 @@ _ترجمه en سلام_
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 end
 return text
@@ -4803,9 +4803,9 @@ text = [[
 3⃣._ربات داعمی نداریم به علت کیفیت و کارای بالای ربات._
 *________________*
 *برای خرید به ایدی زیر مراجعه کنید :*
-🆔: @MahDiRoO
+🆔: @little_princeO_o
 *و اگر ریپورت هستید به :*
-🆔: @MahDiRoOBoT
+🆔: @little_princeO_o_bot
 ]]
 return text
 end
@@ -4850,8 +4850,8 @@ _To Change The LanGuage_
 *°•~>> Setlang* [en , fa]
 
 ➖〰➖〰➖〰➖〰➖
-💻 ρσωєяɗ Ɓу : @MahDiRoO
-🎭 ƇнαηηєƖ : @MaTaDoRTeaM
+💻 ρσωєяɗ Ɓу : @little_princeO_o
+🎭 ƇнαηηєƖ : @black_spam_team
 ]]
 elseif lang then
 text = [[
@@ -4872,8 +4872,8 @@ Unmute group at this time
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 ➖〰➖〰➖〰➖〰➖
-💻 *ρσωєяɗ Ɓу :* @MahDiRoO
-🎭 *ƇнαηηєƖ :* @MaTaDoRTeaM
+💻 *ρσωєяɗ Ɓу :* @little_princeO_o
+🎭 *ƇнαηηєƖ :* @black_spam_team
 ]]
 end
 return text
